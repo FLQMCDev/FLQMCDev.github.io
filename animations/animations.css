@@ -1,0 +1,10 @@
+/* Smooth Transition Effects */
+.fade-in {
+    animation: fadeIn 2s ease-in-out;
+}
+
+/* Parallax Effect */
+.parallax {
+    background-attachment: fixed;
+    background-size: cover;
+}
